@@ -1,0 +1,12 @@
+{
+  "name": "focusednord",
+  "version": "0.0.1",
+  "main": "dist/dist.css",
+  "sn": {
+    "main": "dist/dist.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gustave66/focusednord.git"
+  }
+}
