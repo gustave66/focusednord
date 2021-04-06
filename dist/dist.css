@@ -1,9 +1,9 @@
 :root {
-  --background-1: #4C566A;
-  --background-2: #4C566A;
-  --foreground-1: #E5E9F0;
-  --foreground-2: #E5E9F0;
-  --foreground-3: #E5E9F0;
+  --background-1: #ECEFF4;
+  --background-2: #ECEFF4;
+  --foreground-1: #3B4252;
+  --foreground-2: #3B4252;
+  --foreground-3: #3B4252;
   --highlight-color: #2c313a;
   --neutral-color: #72767e;
   --danger-color: #cc241d;
