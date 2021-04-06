@@ -1,6 +1,6 @@
 :root {
-  --background-1: #ECEFF4;
-  --background-2: #ECEFF4;
+  --background-1: #fafcff;
+  --background-2: #fafcff;
   --foreground-1: #2E3440;
   --foreground-2: #2E3440;
   --foreground-3: #2E3440;
@@ -9,9 +9,9 @@
   --danger-color: #cc241d;
   --success-color: #458588;
   --warning-color: #d65d0e;
-  --border-color: #ECEFF4;
+  --border-color: #fafcff;
   /* Footer */
-  --footer-bar-border-top-color: #ECEFF4;
+  --footer-bar-border-top-color: 0;
   --sn-stylekit-info-color: var(--highlight-color);
   --sn-stylekit-info-contrast-color: var(--foreground-1);
   --sn-stylekit-neutral-color: var(--neutral-color);
