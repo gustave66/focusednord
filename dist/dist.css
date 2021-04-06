@@ -1,6 +1,6 @@
 :root {
-  --background-1: #000;
-  --background-2: #000;
+  --background-1: #ECEFF4;
+  --background-2: #ECEFF4;
   --foreground-1: #2E3440;
   --foreground-2: #2E3440;
   --foreground-3: #2E3440;
@@ -9,7 +9,7 @@
   --danger-color: #cc241d;
   --success-color: #458588;
   --warning-color: #d65d0e;
-  --border-color: #000;
+  --border-color: #ECEFF4;
   /* Footer */
   --footer-bar-border-top-color: 0;
   --sn-stylekit-info-color: var(--highlight-color);
