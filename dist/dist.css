@@ -11,7 +11,7 @@
   --warning-color: #d65d0e;
   --border-color: #ECEFF4;
   /* Footer */
-  --footer-bar-border-top-color: 0;
+  --footer-bar-border-top-color: #ECEFF4;
   --sn-stylekit-info-color: var(--highlight-color);
   --sn-stylekit-info-contrast-color: var(--foreground-1);
   --sn-stylekit-neutral-color: var(--neutral-color);
@@ -127,8 +127,8 @@
 
 .CodeMirror, .CodeMirror-fullscreen, .gKsMQS, .gKsMQS p, .CodeMirror pre.CodeMirror-line, .CodeMirror pre.CodeMirror-line-like  {
   font-family: Charter, Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  font-size: 24px;
-  line-height: 30px;
+  font-size: 20px;
+  line-height: 26px;
 }
 
 .gKsMQS h1:not(.placeholder)::before, 
