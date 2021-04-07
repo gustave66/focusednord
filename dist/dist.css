@@ -4,11 +4,11 @@
   --foreground-1: #2E3440;
   --foreground-2: #2E3440;
   --foreground-3: #2E3440;
-  --highlight-color: #2c313a;
+  --highlight-color: #8FBCBB;
   --neutral-color: #72767e;
-  --danger-color: #cc241d;
-  --success-color: #458588;
-  --warning-color: #d65d0e;
+  --danger-color: #BF616A;
+  --success-color: #88C0D0;
+  --warning-color: #D08770;
   --border-color: #ECEFF4;
   /* Footer */
   --footer-bar-border-top-color: 0;
